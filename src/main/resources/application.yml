@@ -1,0 +1,4 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://admin:admin@notify.akao0vq.mongodb.net/notify?retryWrites=true&w=majority
